@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : image : anuraggg/my-node-app:latest
+     image : anuraggg/my-node-app:latest
      ports :
          - "8000:8000"
